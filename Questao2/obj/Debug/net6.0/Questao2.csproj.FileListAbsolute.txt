@@ -1,0 +1,17 @@
+P:\repositorios\AILOS - Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao2\bin\Debug\net6.0\Questao2.exe
+P:\repositorios\AILOS - Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao2\bin\Debug\net6.0\Questao2.deps.json
+P:\repositorios\AILOS - Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao2\bin\Debug\net6.0\Questao2.runtimeconfig.json
+P:\repositorios\AILOS - Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao2\bin\Debug\net6.0\Questao2.dll
+P:\repositorios\AILOS - Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao2\bin\Debug\net6.0\Questao2.pdb
+P:\repositorios\AILOS - Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao2\bin\Debug\net6.0\Newtonsoft.Json.dll
+P:\repositorios\AILOS - Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao2\obj\Debug\net6.0\Questao2.csproj.AssemblyReference.cache
+P:\repositorios\AILOS - Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao2\obj\Debug\net6.0\Questao2.GeneratedMSBuildEditorConfig.editorconfig
+P:\repositorios\AILOS - Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao2\obj\Debug\net6.0\Questao2.AssemblyInfoInputs.cache
+P:\repositorios\AILOS - Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao2\obj\Debug\net6.0\Questao2.AssemblyInfo.cs
+P:\repositorios\AILOS - Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao2\obj\Debug\net6.0\Questao2.csproj.CoreCompileInputs.cache
+P:\repositorios\AILOS - Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao2\obj\Debug\net6.0\Questao2.csproj.Up2Date
+P:\repositorios\AILOS - Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao2\obj\Debug\net6.0\Questao2.dll
+P:\repositorios\AILOS - Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao2\obj\Debug\net6.0\refint\Questao2.dll
+P:\repositorios\AILOS - Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao2\obj\Debug\net6.0\Questao2.pdb
+P:\repositorios\AILOS - Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao2\obj\Debug\net6.0\Questao2.genruntimeconfig.cache
+P:\repositorios\AILOS - Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao2\obj\Debug\net6.0\ref\Questao2.dll
