@@ -1,14 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "P:\\repositorios\\AILOS - Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\\",
+  "WorkspaceRootPath": "P:\\repositorios\\Teste-de-nivelamento-Csharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6FDF016F-9506-422A-B4CA-E9A401FDDC34}|Questao2\\Questao2.csproj|p:\\repositorios\\ailos - teste-nivelamento-desenvolvedor-csharp-api-v3\\questao2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FDF016F-9506-422A-B4CA-E9A401FDDC34}|Questao2\\Questao2.csproj|solutionrelative:questao2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|p:\\repositorios\\teste-de-nivelamento-csharp\\questao5\\infrastructure\\services\\controllers\\contacorrentecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\infrastructure\\services\\controllers\\contacorrentecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FDF016F-9506-422A-B4CA-E9A401FDDC34}|Questao2\\Questao2.csproj|p:\\repositorios\\ailos - teste-nivelamento-desenvolvedor-csharp-api-v3\\questao2\\dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FDF016F-9506-422A-B4CA-E9A401FDDC34}|Questao2\\Questao2.csproj|solutionrelative:questao2\\dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|p:\\repositorios\\teste-de-nivelamento-csharp\\questao5\\infrastructure\\middleware\\requestresponseloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\infrastructure\\middleware\\requestresponseloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|p:\\repositorios\\teste-de-nivelamento-csharp\\questao5\\infrastructure\\database\\idempotenciarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\infrastructure\\database\\idempotenciarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|p:\\repositorios\\teste-de-nivelamento-csharp\\questao5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|p:\\repositorios\\teste-de-nivelamento-csharp\\questao5\\infrastructure\\database\\movimentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\infrastructure\\database\\movimentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|p:\\repositorios\\teste-de-nivelamento-csharp\\questao5\\infrastructure\\sqlite\\databasebootstrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\infrastructure\\sqlite\\databasebootstrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|p:\\repositorios\\teste-de-nivelamento-csharp\\questao5\\domain\\entities\\idempotencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\domain\\entities\\idempotencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|p:\\repositorios\\teste-de-nivelamento-csharp\\questao5\\domain\\entities\\movimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\domain\\entities\\movimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|p:\\repositorios\\teste-de-nivelamento-csharp\\questao5\\domain\\entities\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\domain\\entities\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,31 +46,144 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Dtos.cs",
-              "DocumentMoniker": "P:\\repositorios\\AILOS - Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\\Questao2\\Dtos.cs",
-              "RelativeDocumentMoniker": "Questao2\\Dtos.cs",
-              "ToolTip": "P:\\repositorios\\AILOS - Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\\Questao2\\Dtos.cs",
-              "RelativeToolTip": "Questao2\\Dtos.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAASwBoAAAAoAAAAAAAAAA==",
+              "Title": "RequestResponseLoggingMiddleware.cs",
+              "DocumentMoniker": "P:\\repositorios\\Teste-de-nivelamento-Csharp\\Questao5\\Infrastructure\\Middleware\\RequestResponseLoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "Questao5\\Infrastructure\\Middleware\\RequestResponseLoggingMiddleware.cs",
+              "ToolTip": "P:\\repositorios\\Teste-de-nivelamento-Csharp\\Questao5\\Infrastructure\\Middleware\\RequestResponseLoggingMiddleware.cs",
+              "RelativeToolTip": "Questao5\\Infrastructure\\Middleware\\RequestResponseLoggingMiddleware.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T23:27:04.653Z"
+              "WhenOpened": "2025-06-27T00:32:05.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IdempotenciaRepository.cs",
+              "DocumentMoniker": "P:\\repositorios\\Teste-de-nivelamento-Csharp\\Questao5\\Infrastructure\\Database\\IdempotenciaRepository.cs",
+              "RelativeDocumentMoniker": "Questao5\\Infrastructure\\Database\\IdempotenciaRepository.cs",
+              "ToolTip": "P:\\repositorios\\Teste-de-nivelamento-Csharp\\Questao5\\Infrastructure\\Database\\IdempotenciaRepository.cs",
+              "RelativeToolTip": "Questao5\\Infrastructure\\Database\\IdempotenciaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T00:21:09.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Idempotencia.cs",
+              "DocumentMoniker": "P:\\repositorios\\Teste-de-nivelamento-Csharp\\Questao5\\Domain\\Entities\\Idempotencia.cs",
+              "RelativeDocumentMoniker": "Questao5\\Domain\\Entities\\Idempotencia.cs",
+              "ToolTip": "P:\\repositorios\\Teste-de-nivelamento-Csharp\\Questao5\\Domain\\Entities\\Idempotencia.cs",
+              "RelativeToolTip": "Questao5\\Domain\\Entities\\Idempotencia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T00:20:12.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovimentoRepository.cs",
+              "DocumentMoniker": "P:\\repositorios\\Teste-de-nivelamento-Csharp\\Questao5\\Infrastructure\\Database\\MovimentoRepository.cs",
+              "RelativeDocumentMoniker": "Questao5\\Infrastructure\\Database\\MovimentoRepository.cs",
+              "ToolTip": "P:\\repositorios\\Teste-de-nivelamento-Csharp\\Questao5\\Infrastructure\\Database\\MovimentoRepository.cs",
+              "RelativeToolTip": "Questao5\\Infrastructure\\Database\\MovimentoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T23:29:05.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "P:\\repositorios\\Teste-de-nivelamento-Csharp\\Questao5\\Program.cs",
+              "RelativeDocumentMoniker": "Questao5\\Program.cs",
+              "ToolTip": "P:\\repositorios\\Teste-de-nivelamento-Csharp\\Questao5\\Program.cs",
+              "RelativeToolTip": "Questao5\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T22:25:03.727Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "P:\\repositorios\\AILOS - Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\\Questao2\\Program.cs",
-              "RelativeDocumentMoniker": "Questao2\\Program.cs",
-              "ToolTip": "P:\\repositorios\\AILOS - Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\\Questao2\\Program.cs",
-              "RelativeToolTip": "Questao2\\Program.cs",
-              "ViewState": "AgIAAFYAAAAAAAAAAAAgwGYAAAApAAAAAAAAAA==",
+              "Title": "ContaCorrenteController.cs",
+              "DocumentMoniker": "P:\\repositorios\\Teste-de-nivelamento-Csharp\\Questao5\\Infrastructure\\Services\\Controllers\\ContaCorrenteController.cs",
+              "RelativeDocumentMoniker": "Questao5\\Infrastructure\\Services\\Controllers\\ContaCorrenteController.cs",
+              "ToolTip": "P:\\repositorios\\Teste-de-nivelamento-Csharp\\Questao5\\Infrastructure\\Services\\Controllers\\ContaCorrenteController.cs",
+              "RelativeToolTip": "Questao5\\Infrastructure\\Services\\Controllers\\ContaCorrenteController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T23:16:03.247Z",
+              "WhenOpened": "2025-06-26T22:15:55.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Movimento.cs",
+              "DocumentMoniker": "P:\\repositorios\\Teste-de-nivelamento-Csharp\\Questao5\\Domain\\Entities\\Movimento.cs",
+              "RelativeDocumentMoniker": "Questao5\\Domain\\Entities\\Movimento.cs",
+              "ToolTip": "P:\\repositorios\\Teste-de-nivelamento-Csharp\\Questao5\\Domain\\Entities\\Movimento.cs",
+              "RelativeToolTip": "Questao5\\Domain\\Entities\\Movimento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T22:15:04.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContaCorrente.cs",
+              "DocumentMoniker": "P:\\repositorios\\Teste-de-nivelamento-Csharp\\Questao5\\Domain\\Entities\\ContaCorrente.cs",
+              "RelativeDocumentMoniker": "Questao5\\Domain\\Entities\\ContaCorrente.cs",
+              "ToolTip": "P:\\repositorios\\Teste-de-nivelamento-Csharp\\Questao5\\Domain\\Entities\\ContaCorrente.cs",
+              "RelativeToolTip": "Questao5\\Domain\\Entities\\ContaCorrente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T22:12:31.734Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "65a8c1d6-a5f0-4793-984d-4dad931e8dad",
+        "Display": 1,
+        "X": -5,
+        "Y": 124,
+        "Width": 1522,
+        "Height": 614,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DatabaseBootstrap.cs",
+              "DocumentMoniker": "P:\\repositorios\\Teste-de-nivelamento-Csharp\\Questao5\\Infrastructure\\Sqlite\\DatabaseBootstrap.cs",
+              "RelativeDocumentMoniker": "Questao5\\Infrastructure\\Sqlite\\DatabaseBootstrap.cs",
+              "ToolTip": "P:\\repositorios\\Teste-de-nivelamento-Csharp\\Questao5\\Infrastructure\\Sqlite\\DatabaseBootstrap.cs",
+              "RelativeToolTip": "Questao5\\Infrastructure\\Sqlite\\DatabaseBootstrap.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T22:51:23.481Z",
               "EditorCaption": ""
             }
           ]

@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LRbLf29LceA=",
+  "dgSpecHash": "UhUNNFCiEcY=",
   "success": true,
-  "projectFilePath": "P:\\repositorios\\AILOS - Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\\Questao1\\Questao1.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\joaov\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\joaov\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\joaov\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\joaov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
-  ],
+  "projectFilePath": "P:\\repositorios\\Teste-de-nivelamento-Csharp\\Questao1\\Questao1.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
